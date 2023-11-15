@@ -1,6 +1,6 @@
-# Knowledge Graph Generation From Text : Grapher(2022) 논문 요약정리
+# Knowledge Graph Generation From Text : Grapher(2022) 논문 요약정리 - 202127288 장석규
 (Igor Melnyk, Pierre Dognin, Payel Das)
-202127288 장석규
+
 
 ## [Abstract]
 
